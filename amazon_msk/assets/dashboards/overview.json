@@ -409,7 +409,7 @@
             "id": 14,
             "definition": {
                 "type": "image",
-                "url": "/static/images/saas_logos/bot/amazon_msk@2x.png",
+                "url": "/static/images/logos/amazon-msk_large.svg",
                 "sizing": "zoom"
             },
             "layout": {
